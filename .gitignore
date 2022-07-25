@@ -1,0 +1,7 @@
+mimic-nle-full/
+prep_extractor.py
+verify_all.py
+mimic-nle/*.json
+.vscode/
+*.pyc
+.DS_Store
